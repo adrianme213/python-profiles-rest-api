@@ -1,1 +1,3 @@
-# python-profiles-rest-api
+# Profiles Rest API
+
+Profiles Rest API course code - Udemy
